@@ -1,0 +1,24 @@
+/*.App{*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items:center;*/
+
+/*    width: 1280px;*/
+/*    height: 100%;*/
+
+/*}*/
+.App {
+
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.App > div {
+    /*margin-right: 50px;*/
+
+}
